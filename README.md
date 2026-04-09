@@ -21,4 +21,4 @@ Keep in mind that you should wait a bit before pressing the keys, especially if 
 \
 In the end I managed to get Arch Linux running perfectly. All the drivers (keyboard, audio, wifi, bluetooth, etc.) work fine. I hope that reading about my experience has helped you, traveler! :)
 
-<img width="1920" height="1080" alt="1775749982" src="https://github.com/user-attachments/assets/d0a31c99-a0ed-4675-aa24-890e63a55441" />
+<img width="1920" height="1080" alt="1775750328" src="https://github.com/user-attachments/assets/7a4489a7-fbcc-45a1-8c9d-bbb351d52238" />
